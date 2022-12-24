@@ -1,0 +1,36 @@
+.error-message {
+    color: red;
+    font-weight: bold;
+}
+
+.btn {
+    margin: 20px 0px;
+}
+
+.yes-no-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.flex-container {
+
+    margin: 50px auto;
+    width: fit-content;
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.btn-remove {
+    color: white;
+    background-color: red;
+    border-radius: 3px;
+}
+
+.btn-comment {
+    color: white;
+    background-color: green;
+    border-radius: 3px;
+}
+
